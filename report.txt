@@ -1,0 +1,21 @@
+Title : Travelopia Home Assignment
+
+Introduction:
+This report outlines the enhancements made to the user interface (UI) of the website to improve user experience and address specific issues.
+
+Achievements:
+
+Successfully developed a fully responsive UI to ensure optimal user experience across various devices.
+Streamlined content on mobile screens, resolving the issue of excessive content and allowing users to navigate more efficiently, particularly when dealing with mobile numbers.
+Navigation Improvement:
+
+Resolved the navbar issue on desktop screens where the border-bottom was not displaying on hover for the 4th and 5th navlinks.
+Acknowledgments:
+I appreciate the opportunity to contribute to this project and would like to thank Travelopia and Mohammed Farhan Sir for their collaboration and support.
+
+Conclusion:
+The UI enhancements have significantly improved the overall usability of the website. Users can now enjoy a seamless experience across devices, and specific issues related to mobile content and navbar hover effects have been successfully addressed.
+
+Name: Chirag Paliwal
+Email: mca22.chirag.paliwal@gmail.sunstone.edu.in
+phno: 7069249904
